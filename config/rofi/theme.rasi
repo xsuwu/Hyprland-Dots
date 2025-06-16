@@ -1,0 +1,34 @@
+* {
+    main-bg:            #11111be6;
+    main-fg:            #cdd6f4ff;
+    main-br:            #cba6f7ff;
+    main-ex:            #f5e0dcff;
+    select-bg:          #b4befeff;
+    select-fg:          #11111bff;
+    separatorcolor:     transparent;
+    border-color:       transparent;
+    background:         #20201f;
+    foreground:         #F7F3f2;
+    color0:             #464645;
+    color1:             #41413F;
+    color2: #444441;
+    color3: #474744;
+    color4: #6C6C68;
+	color5: #6E6E6B;
+	color6: #ADA7A4;
+	color7: #EBE6E4;
+	color8: #A4A1A0;
+	color9: #575753;
+	color10: #5B5B57;
+	color11: #5F5F5A;
+	color12: #90908B;
+	color13: #93938E;
+	color14: #E7DEDA;
+	color15: #EBE6E4;
+	color16: #BEB9B8;
+	color17: #20201E;
+	color18: #555759;
+	color19: #FAF2C2;
+	color20: #544C44;
+	color21: #645C54;
+}
